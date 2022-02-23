@@ -37,11 +37,11 @@
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For keeping records
 
 ## Screenshots
-![Account Home](https://i.imgur.com/XazaYYI.png)
-![Debit Card Selection on ATM](https://i.imgur.com/dvJ9hnC.png)
-![Savings Account](https://i.imgur.com/1HFUL06.png)
-![Transfer](https://i.imgur.com/SqADuRg.png)
-![Account Options](https://i.imgur.com/blMgfpG.png)
+![Account Home](https://cdn.discordapp.com/attachments/675945149502717983/945921735537082378/FiveM_b2372_GTAProcess_saS1C1lFyZ.png)
+![Withdrawals](https://cdn.discordapp.com/attachments/675945149502717983/945921735218331698/FiveM_b2372_GTAProcess_4PW6ClMeu0.png)
+![Transfer](https://cdn.discordapp.com/attachments/675945149502717983/945921734928920606/FiveM_b2372_GTAProcess_pp3u47JT7p.png)
+![Savings Account](https://cdn.discordapp.com/attachments/675945149502717983/945921734656274432/FiveM_b2372_GTAProcess_ftBaj9u2tL.png)
+![Account Options](https://cdn.discordapp.com/attachments/675945149502717983/945921735855853628/FiveM_b2372_GTAProcess_WdJsW25KKy.png)
 
 ## Features
 - Debit card (MasterCard/Visa) with PIN

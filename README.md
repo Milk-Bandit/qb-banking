@@ -1,3 +1,17 @@
+## A UI redesign of QB Core banking
+
+    This is just a UI redesign of the QB-Core banking script:
+   - [qb-banking](https://github.com/qbcore-framework/qb-banking)
+    
+    Credit to Scorpion.#5940 in the QB-Core community Discord for the original redesign.
+    All I have done is taken his awesome redesign and added my own purple theme with some 
+    other little changes to suit my personal preferences.
+    
+    I will not offer any support with this as I am a very busy person plus I am still
+    early learning with .css and .js. Use this at your own risk. Currently I have had zero
+    issues while running on Artifact: 5352, Game Build: 2372 and running latest build of
+    qb-core framework as of 22/02/2022.
+
 # qb-banking
 
 # License
